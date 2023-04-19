@@ -41,14 +41,21 @@ O GitFav foi desenvolvido para estudar o consumo e o uso de API. Neste projeto, 
 - DOM manipulation;
 - API consumption;
 
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Pw8yMsK7HFkD6aISZt6gPA/Stage-05---Focus-Timer-2.0/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
 ## 🔗 Link
 
+[![github](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/alcamovel)<br/>
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allyson-francisco-campos-63776a96)
 
-Este projeto é licenciado sob a licença MIT.
+## 📝 Licença
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)<br/>
+Esse projeto está sob a licença MIT.
 
 ---
-
-Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
 # Desafio2-Stage6-Explorer-Rocketseat
